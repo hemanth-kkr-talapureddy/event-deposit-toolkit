@@ -50,7 +50,6 @@ Ti/Ca hardly moves; a flood bed dilutes the carbonate with fresh terrigenous
 input and Ti/Ca jumps by a factor of three.
 
 ## Figures
-
 ![Discrimination plot](figures/discrimination.png)
 ![Downcore log](figures/downcore_log.png)
 `figures/discrimination.png` — sorting against Ti/Ca, coloured by facies
