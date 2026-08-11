@@ -108,8 +108,6 @@ Python 3.9+, numpy, pandas, matplotlib, scipy.
 
 ## References
 
-Folk, R.L. and Ward, W.C. (1957) Brazos River bar: a study in the significance
-of grain size parameters. *Journal of Sedimentary Petrology*, 27, 3–26.
 
 ## Contact
 
