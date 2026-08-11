@@ -51,11 +51,11 @@ input and Ti/Ca jumps by a factor of three.
 
 ## Figures
 
+![Discrimination plot](figures/discrimination.png)
+![Downcore log](figures/downcore_log.png)
 `figures/discrimination.png` — sorting against Ti/Ca, coloured by facies
 `figures/downcore_log.png` — D50, sorting, sand %, and Ti/Ca with event beds shaded
 `figures/distributions_by_facies.png` — volume distributions for each facies
-![Discrimination plot](figures/discrimination.png)
-![Downcore log](figures/downcore_log.png)
 
 ## Usage
 
